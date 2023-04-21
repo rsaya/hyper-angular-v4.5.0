@@ -1,0 +1,41 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/hyper-angular-v4.5.0/dist
+/hyper-angular-v4.5.0/tmp
+/hyper-angular-v4.5.0/out-tsc
+
+# dependencies
+/hyper-angular-v4.5.0/node_modules
+
+# IDEs and editors
+/hyper-angular-v4.5.0/.idea
+/hyper-angular-v4.5.0/.project
+/hyper-angular-v4.5.0/.classpath
+/hyper-angular-v4.5.0/.c9/
+/hyper-angular-v4.5.0/*.launch
+/hyper-angular-v4.5.0/.settings/
+/hyper-angular-v4.5.0/*.sublime-workspace
+
+# IDE - VSCode
+/hyper-angular-v4.5.0/.vscode/*
+/hyper-angular-v4.5.0/!.vscode/settings.json
+/hyper-angular-v4.5.0/!.vscode/tasks.json
+/hyper-angular-v4.5.0/!.vscode/launch.json
+/hyper-angular-v4.5.0/!.vscode/extensions.json
+
+# misc
+/hyper-angular-v4.5.0/.angular/cache
+/hyper-angular-v4.5.0/.sass-cache
+/hyper-angular-v4.5.0/connect.lock
+/hyper-angular-v4.5.0/coverage
+/hyper-angular-v4.5.0/libpeerconnection.log
+/hyper-angular-v4.5.0/npm-debug.log
+/hyper-angular-v4.5.0/yarn-error.log
+/hyper-angular-v4.5.0/testem.log
+/hyper-angular-v4.5.0/typings
+
+
+# System File
+.DS_Store
+Thumbs.db
